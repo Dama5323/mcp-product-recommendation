@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+boto3==1.40.28
+botocore>=1.31.0
+python-dotenv==1.1.1
+mcp==1.13.1
+strands-agents==1.8.0
+strands-agents-tools==0.2.7
+httpx==0.28.1
